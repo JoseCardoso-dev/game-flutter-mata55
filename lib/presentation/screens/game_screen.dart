@@ -169,7 +169,7 @@ class _GameScreenState extends State<GameScreen> {
                     () =>
                         controlador.verificarJogada(botoes.indexOf(botoes[2])),
                 borderRadius: const BorderRadius.only(
-                  bottomLeft: Radius.circular(150),
+                  bottomRight: Radius.circular(150),
                 ),
               ),
 
@@ -180,7 +180,7 @@ class _GameScreenState extends State<GameScreen> {
                     () =>
                         controlador.verificarJogada(botoes.indexOf(botoes[3])),
                 borderRadius: const BorderRadius.only(
-                  bottomRight: Radius.circular(150),
+                  bottomLeft: Radius.circular(150),
                 ),
               ),
 
