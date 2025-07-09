@@ -88,7 +88,7 @@
 
 ```bash
 git clone https://github.com/JoseCardoso-dev/game-flutter-mata55.git
-cd simon-musical
+cd game-flutter-mata55
 flutter pub get
 flutter run
 ```
