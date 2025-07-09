@@ -96,6 +96,6 @@ flutter run
 ---
 
 ### 🙋 Autor
-Nome: José Roberto Souza Cardoso
-Disciplina: Programação Orientada a Objetos (POO)
-Professor: Rodrigo Rocha Gomes e Souza
+- Nome: José Roberto Souza Cardoso
+- Disciplina: Programação Orientada a Objetos (POO)
+- Professor: Rodrigo Rocha Gomes e Souza
