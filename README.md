@@ -59,6 +59,9 @@
 ### ❌ Tela de Game Over (Desktop):
 ![Game Over](assets/images/game_over.png)
 
+### Diagrama de classes UML
+![UML](assets/images/uml.png)
+
 ---
 
 ## 🛠️ Tecnologias Usadas
